@@ -13,7 +13,8 @@
     "@types/node": "^16.4.3",
     "prettier": "^2.3.2",
     "serverless": "^2.52.1",
-    "serverless-plugin-typescript": "^1.1.9"
+    "serverless-plugin-typescript": "^1.1.9",
+    "typescript": "^4.3.5"
   },
   "dependencies": {
     "aws-lambda": "^1.0.6",
